@@ -1,0 +1,8 @@
+﻿  Cliente.cpp
+C:\Users\CARLOS\Documents\mysql_c\mysql_c\Cliente.h(5,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "Cliente.cpp")
+  
+  mysql_c.cpp
+C:\Users\CARLOS\Documents\mysql_c\mysql_c\Cliente.h(5,10): error C1083: No se puede abrir el archivo incluir: 'ConexionBD.h': No such file or directory
+  (compilando archivo de origen "mysql_c.cpp")
+  

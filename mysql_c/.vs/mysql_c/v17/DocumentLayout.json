@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CARLOS\\Documents\\mysql_c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\mysql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\mysql_c.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CARLOS\\Documents\\mysql_c\\x64\\Release\\mysql_c.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:x64\\Release\\mysql_c.pdb||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Persona.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Cliente.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\coneccionBD.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Persona.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\Cliente.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15DAA976-C533-4EB9-8402-8109594B3E96}|mysql_c\\mysql_c.vcxproj|solutionrelative:mysql_c\\coneccionBD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mysql_c.pdb",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\x64\\Release\\mysql_c.pdb",
+              "RelativeDocumentMoniker": "x64\\Release\\mysql_c.pdb",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\x64\\Release\\mysql_c.pdb",
+              "RelativeToolTip": "x64\\Release\\mysql_c.pdb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002276|",
+              "WhenOpened": "2024-05-10T05:25:17.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mysql_c.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\mysql_c.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\mysql_c.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\mysql_c.cpp",
+              "RelativeToolTip": "mysql_c\\mysql_c.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T04:57:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\Persona.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.cpp",
+              "RelativeToolTip": "mysql_c\\Persona.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T04:56:38.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Persona.h",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.h",
+              "RelativeDocumentMoniker": "mysql_c\\Persona.h",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Persona.h",
+              "RelativeToolTip": "mysql_c\\Persona.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T04:56:34.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "coneccionBD.h",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.h",
+              "RelativeDocumentMoniker": "mysql_c\\coneccionBD.h",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.h",
+              "RelativeToolTip": "mysql_c\\coneccionBD.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T04:55:44.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "coneccionBD.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\coneccionBD.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\coneccionBD.cpp",
+              "RelativeToolTip": "mysql_c\\coneccionBD.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T04:55:41.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cpp",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.cpp",
+              "RelativeDocumentMoniker": "mysql_c\\Cliente.cpp",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.cpp",
+              "RelativeToolTip": "mysql_c\\Cliente.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T04:53:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.h",
+              "DocumentMoniker": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.h",
+              "RelativeDocumentMoniker": "mysql_c\\Cliente.h",
+              "ToolTip": "C:\\Users\\CARLOS\\Documents\\mysql_c\\mysql_c\\Cliente.h",
+              "RelativeToolTip": "mysql_c\\Cliente.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-10T04:52:43.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
